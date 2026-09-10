@@ -1,6 +1,6 @@
 <?php
 require_once 'config/config.php';
-// require_once 'config/database.php';
+require_once 'config/database.php';
 include 'templates/header.php';
 include 'templates/navbar.php';
 ?>
