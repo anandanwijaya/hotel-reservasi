@@ -4,7 +4,7 @@ if (session_status() == PHP_SESSION_NONE) {
 }
 
 // Base URL (Sesuaikan dengan nama folder proyek Anda di htdocs)
-define('BASEURL', 'https://hotel-reservasi.free.nf/');
+define('BASEURL', 'https://hotel-reservasi.free.je/');
 
 // Helper untuk proteksi halaman berdasarkan role
 function cek_akses($role_wajib) {
